@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/chaudhary7307/leetcode/tree/master/0018-4sum) |
+| [0275-h-index-ii](https://github.com/chaudhary7307/leetcode/tree/master/0275-h-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chaudhary7307/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0275-h-index-ii](https://github.com/chaudhary7307/leetcode/tree/master/0275-h-index-ii) |
 ## Binary Tree
 |  |
 | ------- |
