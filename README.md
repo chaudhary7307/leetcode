@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chaudhary7307/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0110-balanced-binary-tree](https://github.com/chaudhary7307/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chaudhary7307/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0110-balanced-binary-tree](https://github.com/chaudhary7307/leetcode/tree/master/0110-balanced-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [2007-find-original-array-from-doubled-array](https://github.com/chaudhary7307/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/chaudhary7307/leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
