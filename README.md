@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/chaudhary7307/leetcode/tree/master/0018-4sum) |
+| [2396-strictly-palindromic-number](https://github.com/chaudhary7307/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chaudhary7307/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/chaudhary7307/leetcode/tree/master/0412-fizz-buzz) |
+| [2396-strictly-palindromic-number](https://github.com/chaudhary7307/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/chaudhary7307/leetcode/tree/master/0110-balanced-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/chaudhary7307/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
